@@ -1,7 +1,7 @@
 # BOC-IPG-Configuration
-complete sample payment gateway for BOC
+complete sample payment gateway for Bank of Ceylon - BOC
 
-BOC srilanka currenty providing the online payment facility join with master card payment gate way
+Bank of Ceylon currenty providing the online payment facility join with master card payment gate way
 
 Steps...
 01. Update merchent ID in configuration.php
